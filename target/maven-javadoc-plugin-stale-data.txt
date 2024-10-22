@@ -1,0 +1,48 @@
+@options
+@packages
+-classpath
+'C:/Users/santos/.m2/repository/com/github/gino0631/pac-maven-plugin/1.1/pac-maven-plugin-1.1.jar;C:/Users/santos/.m2/repository/com/github/gino0631/pac-core/1.1/pac-core-1.1.jar;C:/Users/santos/.m2/repository/com/github/gino0631/clove-io/0.2/clove-io-0.2.jar;C:/Users/santos/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;C:/Users/santos/.m2/repository/org/tukaani/xz/1.9/xz-1.9.jar;C:/Users/santos/.m2/repository/org/apache/maven/shared/maven-shared-utils/3.3.3/maven-shared-utils-3.3.3.jar;C:/Users/santos/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/santos/Documents/NetBeansProjects/Cliente/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/santos/Documents/NetBeansProjects/Cliente/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Cliente 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Cliente 1.0-SNAPSHOT API'
+com.company.cliente
+C:\Users\santos\.m2\repository\com\github\gino0631\pac-maven-plugin\1.1\pac-maven-plugin-1.1.jar = 1718739969905
+C:\Users\santos\.m2\repository\com\github\gino0631\pac-core\1.1\pac-core-1.1.jar = 1718739970080
+C:\Users\santos\.m2\repository\com\github\gino0631\clove-io\0.2\clove-io-0.2.jar = 1718739970122
+C:\Users\santos\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar = 1717779128733
+C:\Users\santos\.m2\repository\org\tukaani\xz\1.9\xz-1.9.jar = 1717779128751
+C:\Users\santos\.m2\repository\org\apache\maven\shared\maven-shared-utils\3.3.3\maven-shared-utils-3.3.3.jar = 1718739970063
+C:\Users\santos\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar = 1717523978306
+C:\Users\santos\Documents\NetBeansProjects\Cliente\src\main\java = 1718734273057
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\allclasses-index.html = 1718741240268
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\allpackages-index.html = 1718741240273
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\element-list = 1718741240177
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\help-doc.html = 1718741240317
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\index-all.html = 1718741240304
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\index.html = 1718741240311
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\member-search-index.js = 1718741240286
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\module-search-index.js = 1718741240276
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\overview-tree.html = 1718741240252
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\package-search-index.js = 1718741240279
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\search.html = 1718741240308
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\tag-search-index.js = 1718741240288
+C:\Users\santos\Documents\NetBeansProjects\Cliente\target\site\apidocs\type-search-index.js = 1718741240282
